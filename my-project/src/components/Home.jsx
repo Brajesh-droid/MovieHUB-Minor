@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import Sidenac from './templates/Sidenac';
-import Topnav from './templates/topnav';
+import Topnav from './templates/Topnav';
 import axios from '../utiles/axios';
 import Header from './templates/Header';
 import HorizontalCards from './templates/HorizontalCards';
